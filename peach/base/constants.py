@@ -1,0 +1,5 @@
+ACTIVE = "active"
+INACTIVE = "inactive"
+DECIMAL = "decimal"
+VARCHAR = "varchar"
+INTEGER = "integer"
